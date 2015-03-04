@@ -8,10 +8,16 @@
 ## Usage
 
   * Install necessary gems
+    ```
     bundle install
+    ```
 
   * Run tests
+    ```
     bundle exec rake spec 
+    ```
 
   * Count bits on file
+    ```
     bundle exec ruby bit_counter.rb /path/to/file.jpg
+    ```
