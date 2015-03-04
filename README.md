@@ -1,7 +1,9 @@
 == Bit Counter
 
   Counts bits on a given file.
+  Not optimized for speed or anything.
 
 = Usage
 
-  bit_counter.rb /path/to/file.jpg
+  * bundle install
+  * bundle exec ruby bit_counter.rb /path/to/file.jpg
